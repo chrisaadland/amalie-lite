@@ -1,0 +1,8 @@
+{
+  "name": "amalie",
+  "owner": { "name": "Chris Aadland" },
+  "description": "Amalie, skriveassistent for klar norsk tekst.",
+  "plugins": [
+    { "name": "amalie", "source": "./", "description": "Skriveassistent for klar norsk tekst: skriveregler, tone og gjennomgang av tekst." }
+  ]
+}
