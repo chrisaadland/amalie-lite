@@ -116,7 +116,7 @@ Ord skal bety det de betyr. Metaforer forsinker leseren og kan leses på flere m
 
 ## Del B: Vanlige feil
 
-Disse feilene går ofte igjen, både i tekst skrevet av mennesker og av KI. B9–B13 er særlig typiske for KI-tekst. Ett tegn alene beviser ikke at en tekst er skrevet av KI. Vi retter feilen fordi den gjør teksten dårligere for leseren.
+Disse feilene går ofte igjen, både i tekst skrevet av mennesker og av KI. B9–B15 er særlig typiske for KI-tekst. Ett tegn alene beviser ikke at en tekst er skrevet av KI. Vi retter feilen fordi den gjør teksten dårligere for leseren.
 
 ### B1. Komprimert strategispråk
 
@@ -200,6 +200,8 @@ Setninger som starter eller slutter teksten uten å si noe nytt. Typiske åpning
 
 En rapport kan ha en ekte oppsummering (T6). Regelen gjelder setninger som bare gjentar det som står over.
 
+Samme feil gjelder hele seksjoner. En del om «utfordringer» ender med at framtiden ser lys ut, og en del om «framtidsutsikter» har verken planer, datoer eller tall. Skriv hva utfordringen er og hva som gjøres med den, eller stryk seksjonen.
+
 ### B11. Vage kilder og gjetning
 
 Påstander uten navngitt kilde, eller gjetning som fyller hullet etter et faktum. Typiske ord: «Eksperter mener», «Forskning viser», «Mange opplever», «Basert på tilgjengelig informasjon», og «trolig» uten kilde. «Trolig» med kilde er en riktig forsiktig påstand. Navngi kilden, eller stryk påstanden og marker hullet for den som skriver.
@@ -208,6 +210,12 @@ Påstander uten navngitt kilde, eller gjetning som fyller hullet etter et faktum
 |---|---|
 | Forskning viser at barn trenger lite salt. | Helsedirektoratet anbefaler lite salt til barn under to år. |
 | Senteret har trolig en viktig rolle. | [Hva senteret gjør – sjekk med senteret] |
+
+Én kilde blir ikke til mange. «Forskere mener» og «flere studier viser» krever flere kilder. Har teksten én kilde, skriv navnet på den.
+
+| Dårlig | Bra |
+|---|---|
+| Flere studier viser at korte setninger er lettere å lese. (Én kilde) | En undersøkelse fra Språkrådet viser at korte setninger er lettere å lese. |
 
 ### B12. Rester fra chatboten
 
@@ -225,6 +233,24 @@ Disse er greie én gang, men et problem når de går igjen gjennom teksten. Pek 
 | Pynte-tretall | Tre adjektiver eller substantiver som ikke gir informasjon: «innovative, brukervennlige og bærekraftige løsninger» | Gjelder ikke ekte lister (A6). Markedsføring (T3) tåler flere. |
 | Fet etikett i hvert punkt | «**Fleksibilitet:** Du kan …» i hvert listepunkt | Pek det ut én gang per liste. |
 | Faste KI-fraser | «et mangfold av», «en rekke», «dykke ned i», «Det er viktig å understreke» | Pek det ut når flere står i samme tekst. |
+
+### B14. Vage koblinger
+
+«Knyttet til», «i forbindelse med», «assosiert med» og «har sammenheng med» sier at to ting henger sammen, men ikke hvordan. Skriv hva forbindelsen er: hvem gjør hva, eller hva fører til hva. Pek det ut når leseren ikke kan se hva forbindelsen er.
+
+| Dårlig | Bra |
+|---|---|
+| Det er utfordringer knyttet til parkering ved skolen. | Skolen har 20 parkeringsplasser og 60 ansatte som kjører. |
+| Du får dekket kostnader i forbindelse med flyttingen. | Du får dekket flyttebyrå og leie av bil. |
+
+### B15. Retteforbehold
+
+Teksten retter en misforståelse leseren ikke har. Typiske ord: «bør forstås som», «betyr ikke at», «må ikke forveksles med», «er ikke det samme som». Si det som er riktig. Rettelsen er riktig når mange faktisk tar feil, for eksempel i svar på et spørsmål folk ofte stiller.
+
+| Dårlig | Bra |
+|---|---|
+| Rapporten bør forstås som et utgangspunkt for videre arbeid. | Rapporten foreslår tre løsninger. Styret velger én i mars. |
+| Kurset må ikke forveksles med grunnkurset. | Kurset er for deg som har tatt grunnkurset. |
 
 ---
 
@@ -246,6 +272,7 @@ Små feil som er lette å rette. De gjelder norsk tekst. Engelsk tekst følger a
 | C10 | Ord fra avsenderens ordliste brukes slik ordlisten sier. Står et ord som «ikke bruk», bytt det. | – | Se ordlisten i avsenderens stilguide |
 | C11 | Ikke store bokstaver for å fremheve. De er tyngre å lese. | VIKTIG: SØK INNEN FREDAG | Viktig: Søk innen fredag 14. mars. |
 | C12 | Knapper, feltnavn og avkrysningsbokser har ikke punktum. Meldinger skrevet som hele setninger har punktum. | Send søknaden. | Send søknaden |
+| C13 | Ingen emoji i overskrifter, knapper eller listepunkter. I innlegg i sosiale medier kan avsenderens stil tillate dem. | 📅 Viktige datoer | Viktige datoer |
 
 ---
 

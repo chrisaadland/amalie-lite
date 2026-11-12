@@ -1,6 +1,6 @@
 {
   "name": "amalie",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Amalie: skriveassistent for klar norsk tekst. Skriver etter faste regler for klarspråk og går gjennom tekst du allerede har. Oppkalt etter Amalie Skram.",
   "author": { "name": "Chris Aadland" }
 }

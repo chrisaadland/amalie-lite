@@ -42,12 +42,13 @@ Gå gjennom sjekklisten og rett teksten før den leveres. Den som bestilte tekst
 6. Står det tall i stedet for adjektiver? (A8)
 7. Er noen setninger over 25 ord, eller har de to påstander? (A6, B4)
 8. Finnes strategispråk, PR-forsikringer, oppblåste ord, tomme åpninger eller vage kilder? (B1, B6, B9–B11)
-9. Er det rester fra chatboten, eller mønstre som går igjen? (B12, B13)
-10. Har noe ord en bibetydning, for eksempel «litt», «kun» eller «bare» brukt slik at en mengde eller kvalitet høres mindre ut? (B5)
-11. Følger teksten reglene for sin teksttype? (T1–T6)
-12. Er typografien riktig, og er ordene brukt slik avsenderens ordliste sier? (C1–C12)
-13. Virker teksten for alle lesere: ord om mennesker, alt-tekst, overskrifter, ingen henvisning til farge eller plassering? (D1–D15)
-14. Passer teksten til avsenderens stil og den tonen vi valgte? (lag 2 og 3)
+9. Er det vage koblinger som «knyttet til», eller rettelser av misforståelser leseren ikke har? (B14, B15)
+10. Er det rester fra chatboten, eller mønstre som går igjen? (B12, B13)
+11. Har noe ord en bibetydning, for eksempel «litt», «kun» eller «bare» brukt slik at en mengde eller kvalitet høres mindre ut? (B5)
+12. Følger teksten reglene for sin teksttype? (T1–T6)
+13. Er typografien riktig, og er ordene brukt slik avsenderens ordliste sier? (C1–C13)
+14. Virker teksten for alle lesere: ord om mennesker, alt-tekst, overskrifter, ingen henvisning til farge eller plassering? (D1–D15)
+15. Passer teksten til avsenderens stil og den tonen vi valgte? (lag 2 og 3)
 
 Strider avsenderens stilguide mot grunnreglene, si fra. Velg ikke stille selv.
 

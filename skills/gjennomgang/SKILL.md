@@ -48,8 +48,8 @@ Er teksten god, si det i første setning. Grensetilfeller og ting du ikke kan vi
 | Alvorlighet | Hva det betyr | Typiske regler |
 |---|---|---|
 | **Høy** | Leseren kan misforstå, ta feil valg eller ikke klare oppgaven. Eller teksten påstår noe som ikke kan dokumenteres, bruker et ord avsenderens ordliste forbyr, eller stenger noen lesere ute. | A1, A2, A4, A10, B1, B5, B6, B11, B12, C10, T1 (feilmeldinger og dialoger), D5, D9, D11 |
-| **Middels** | Leseren forstår, men bruker lengre tid eller mister tillit. Fagord uten forklaring, lange setninger, tomme fraser, stil eller tone som ikke passer, like elementer bygd ulikt. | A3, A5–A9, B2–B4, B7–B10, B13, resten av T1, T2–T6, D1–D4, D6–D8, D10, D12–D15, Stil, Tone |
-| **Lav** | Typografi og skrivemåte. | C1–C9, C11, C12 |
+| **Middels** | Leseren forstår, men bruker lengre tid eller mister tillit. Fagord uten forklaring, lange setninger, tomme fraser, stil eller tone som ikke passer, like elementer bygd ulikt. | A3, A5–A9, B2–B4, B7–B10, B13–B15, resten av T1, T2–T6, D1–D4, D6–D8, D10, D12–D15, Stil, Tone |
+| **Lav** | Typografi og skrivemåte. | C1–C9, C11–C13 |
 
 Regelen i tabellen er et utgangspunkt. Vurder hvor mye feilen betyr for leseren akkurat her.
 
