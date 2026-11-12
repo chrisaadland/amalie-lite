@@ -1,4 +1,4 @@
-"""Lager dist/amalie.zip: hele Amalie som én skill for Claude-appen (claude.ai og desktop)."""
+"""Lager dist/amalie-lite.zip: hele Amalie som én skill for Claude-appen (claude.ai og desktop)."""
 import pathlib, shutil, zipfile
 rot = pathlib.Path(__file__).parent
 ut = rot / "dist" / "amalie"
@@ -13,7 +13,7 @@ for f in ut.rglob("*.md"):
     s = f.read_text()
     for a, b in bytt.items(): s = s.replace(a, b)
     f.write_text(s)
-with zipfile.ZipFile(rot / "dist" / "amalie.zip", "w", zipfile.ZIP_DEFLATED) as z:
+with zipfile.ZipFile(rot / "dist" / "amalie-lite.zip", "w", zipfile.ZIP_DEFLATED) as z:
     for f in sorted(ut.rglob("*")):
         if f.is_file(): z.write(f, f.relative_to(ut.parent))
-print("dist/amalie.zip")
+print("dist/amalie-lite.zip")

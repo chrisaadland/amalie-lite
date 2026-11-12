@@ -1,6 +1,6 @@
-# Amalie
+# Amalie Lite
 
-Amalie er en skriveassistent for Claude som hjelper deg å skrive klar norsk tekst. Hun er oppkalt etter forfatteren Amalie Skram, som skrev nøkternt og uten pynt.
+Amalie Lite er en skriveassistent for Claude som hjelper deg å skrive klar norsk tekst. Hun er oppkalt etter forfatteren Amalie Skram, som skrev nøkternt og uten pynt.
 
 Amalie gjør to ting:
 
@@ -15,7 +15,7 @@ Du bruker henne ved å skrive navnet hennes til Claude:
 
 ## Installer i Claude-appen (claude.ai eller desktop)
 
-1. Last ned [amalie.zip](https://github.com/chrisaadland/amalie/releases/latest/download/amalie.zip).
+1. Last ned [amalie-lite.zip](https://github.com/chrisaadland/amalie-lite/releases/latest/download/amalie-lite.zip).
 2. Åpne Claude og gå til **Innstillinger → Capabilities → Skills**.
 3. Velg **Upload skill** og last opp zip-filen.
 4. Skriv «Amalie, se over denne: …» i en ny samtale.
@@ -27,11 +27,11 @@ Skills må være slått på i kontoen din. Finner du ikke Skills under Innstilli
 Skriv disse to kommandoene i Claude Code:
 
 ```
-/plugin marketplace add chrisaadland/amalie
+/plugin marketplace add chrisaadland/amalie-lite
 ```
 
 ```
-/plugin install amalie@amalie
+/plugin install amalie@amalie-lite
 ```
 
 Start Claude Code på nytt etterpå.
